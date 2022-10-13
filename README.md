@@ -2,7 +2,11 @@
 
 #### I'm a software engineer with experience developing full-stack, cloud-native applications with great UIs. I write code that is human-friendly, testable and robust. I love learning and do my best work in teams.
 
-#### Recently I co-created [Seymour](https://seymour-active-monitoring.github.io/), an open-source, easy-to-configure active monitoring tool that enables continuous testing of production API endpoints.
+---
+<img src="https://github.com/seymour-active-monitoring/seymour-active-monitoring.github.io/blob/main/assets/images/seymour_ltblue_logoPNG.png" alt="seymour map image">
+
+#### I recently co-created [Seymour](https://seymour-active-monitoring.github.io/), an open-source, easy-to-configure active monitoring tool that enables continuous testing of production API endpoints.
+
 #### :hammer_and_wrench: Seymour was built with React, Redux, Node, Express, PostgresQL and can be deployed to an AWS with two CLI commands.
 
 <div align="left">
@@ -15,5 +19,7 @@
 </div>
 
 #### Check out the Seymour case study [here](https://seymour-active-monitoring.github.io/case-study.html) 
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tdronkers04&theme=react)](https://git.io/streak-stats)
