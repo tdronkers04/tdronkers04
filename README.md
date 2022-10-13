@@ -16,3 +16,4 @@
 
 #### Check out the Seymour case study [here](https://seymour-active-monitoring.github.io/case-study.html) 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tdronkers04&theme=react)](https://git.io/streak-stats)
