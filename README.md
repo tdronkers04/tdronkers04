@@ -18,8 +18,15 @@
   <img width="55" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"/>
 </div>
 
-#### Check out the Seymour case study [here](https://seymour-active-monitoring.github.io/case-study.html) 
+#### Check out the Seymour case study [here](https://seymour-active-monitoring.github.io/case-study.html). 
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tdronkers04&theme=react)](https://git.io/streak-stats)
+### Say Hello:
+
+<a target="_blank" href="mailto:tim@dronkers.dev">📫 e-mail</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-timdronkers-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timdronkers)
+
+
+
